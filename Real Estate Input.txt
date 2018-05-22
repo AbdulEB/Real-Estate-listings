@@ -1,0 +1,29 @@
+s	5000	brick	y	y	n	s	6000	400000	20000	stct	street
+s	15000	siding	y	y	y	s	16000	1400000	20000	ngfl	stripmall
+s	25000	brick	y	y	y	s	25000	2400000	25000	wlld	largemall
+f	20000	brick	y	y	n	i	30000	2000000	60000	wlld	medium
+f	40000	wood	y	y	y	i	45000	3300000	90000	fter	medium
+h	1000	brick	bungalow	3	1	y	r	3000	375000	6000	stct	y	y	y	n
+h	2000	brick	twostory	4	3	y	r	6000	650000	8000	stct	y	y	y	y
+h	1500	siding	split	4	2	y	r	4500	475000	6000	stct	y	y	y	n
+h	1200	other	semi	3	2	y	r	2500	290000	2000	stct	y	y	n	n
+h	800	brick	condo	2	1	n	r	1800	190000	800	stct	y	y	n	n
+h	2000	brick	twostory	4	3	y	f	4000	2000000	1000000	stct	n	n	y	y	vineyard
+h	1000	brick	bungalow	3	1	y	r	2500	275000	6000	wlld	y	y	y	n
+h	2000	brick	twostory	4	3	y	r	5000	550000	8000	wlld	y	y	y	y
+h	1500	siding	split	4	2	y	r	3500	375000	6000	wlld	y	y	y	n
+h	1200	wood	semi	3	2	y	r	2000	240000	2000	wlld	y	y	n	n
+h	800	brick	condo	2	1	n	r	1600	150000	800	wlld	y	y	n	n
+h	2000	brick	twostory	4	3	y	f	4000	2000000	1000000	wlld	n	n	y	y	cash
+h	1000	brick	bungalow	3	1	y	r	2500	275000	6000	ngfl	y	y	y	n
+h	2000	brick	twostory	4	3	y	r	5000	550000	8000	ngfl	y	y	y	y
+h	1500	siding	split	4	2	y	r	3500	375000	6000	ngfl	y	y	y	n
+h	1200	siding	semi	3	2	y	r	2000	240000	2000	ngfl	y	y	n	n
+h	800	wood	condo	2	1	n	r	1600	150000	800	ngfl	y	y	n	n
+h	2000	brick	twostory	4	3	y	f	4000	2000000	1000000	ngfl	n	n	y	y	fruit
+h	1000	brick	bungalow	3	1	y	r	2500	275000	6000	fter	y	y	y	n
+h	2000	brick	twostory	4	3	y	r	5000	550000	8000	fter	y	y	y	y
+h	1500	siding	split	4	2	y	r	3500	375000	6000	fter	y	n	n	n
+h	1200	siding	semi	3	2	y	r	2000	240000	2000	fter	y	y	n	n
+h	800	other	condo	2	1	n	r	1600	150000	800	fter	y	y	n	n
+h	2000	brick	twostory	4	3	y	f	4000	2000000	1000000	fter	n	n	y	y	cash
